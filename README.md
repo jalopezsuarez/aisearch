@@ -15,38 +15,16 @@ Esta aplicación esta diseñada para ayudar en el desarrollo e investigación en
 ### Grafos para AI-Search 
 La aplicación admite un formato determinado de archivos donde se especifican los grafos, utilizando archivos de texto plano.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-Formato de archivo	Código de ejemplo	Imagen de ejemplo
-Nodos_Totales
-Nombre_Nodo
-PosicionX,PosicionY
-Valor_Nodo
-Es_Objetivo {seleccionar SI o NO}
-Numeros_Sucesores
-Sucesores_Nombre,Coste_Arco
-Sucesores_Nombre,Coste_Arco
-[...] 	3
-A
-100,40
-10
-NO
-2
-B,10
-C,5
-B
-60,120
-20
-NO
-0
-C
-120,150
-15
-SI
-0	 
+| Variable Ejemplo  | Valor Ejemplo | Imagen Grafo |
+| ------------- | ------------- | ------------- |
+| Nodos_Totales | 3  |  |
+| Nombre_Nodo   | A | |
+| PosicionX,PosicionY   | 100, 40  | |
+| Valor_Nodo   | 10 ||
+| Es_Objetivo {seleccionar SI o NO}   | NO ||
+| Numeros_Sucesores   | Content Cell  ||
+| Sucesores_Nombre,Coste_Arco   | B,10  ||
+| Sucesores_Nombre,Coste_Arco   | C,5  ||
 
 ### Funcionalidades Destacadas
 - Apertura del grafo mediante menú Abrir.

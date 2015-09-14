@@ -21,19 +21,19 @@ La aplicación admite un formato determinado de archivos donde se especifican lo
 | ------------- | ----------- |
 | NodosTotales | 3 |
 | NombreNodo | A | 
-| PosicionX,PosicionY   | 100, 40  | 
+| PosicionX, PosicionY   | 100, 40  | 
 | ValorNodo | 10 |
 | EsObjetivo {seleccionar SI o NO}   | NO |
 | NumeroSucesores  | 2 |
-| NombreSucesores,CosteArco   | B,10 |
-| NombreSucesores,CosteArco   | C,5 |
+| NombreSucesores, CosteArco   | B,10 |
+| NombreSucesores, CosteArco   | C,5 |
 | NombreNodo | B | 
-| PosicionX,PosicionY   | 60, 120 | 
+| PosicionX, PosicionY   | 60, 120 | 
 | ValorNodo  | 20 |
 | EsObjetivo {seleccionar SI o NO}   | NO |
 | NumeroSucesores   | 0 |
 | NombreNodo | C | 
-| PosicionX,PosicionY   | 120, 150  | 
+| PosicionX, PosicionY   | 120, 150  | 
 | ValorNodo | 15 |
 | EsObjetivo {seleccionar SI o NO}   | SI |
 | NumeroSucesores | 0 |

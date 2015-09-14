@@ -42,7 +42,7 @@ C
 SI
 0	 
 
-## Funcionalidades Destacadas
+### Funcionalidades Destacadas
 - Apertura del grafo mediante menú Abrir.
 - Se adjuntan diversos grafos de ejemplo para probar la efectividad de cada algoritmo.
 - Inclusión de las estadísticas en el desarrollo y finalización de la ejecución del algoritmo.

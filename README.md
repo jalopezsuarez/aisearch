@@ -2,7 +2,7 @@
 AI-Search: Software de animación de algoritmos de Inteligencia Artificial
 
 ## Inteligencia Artificial y Sistemas Expertos
-Esta aplicación esta diseñada para ayudar en el desarrollo e investigación en el área de Inteligencia Artificial y Sistemas Expertos. La aplicación se basa en un software que realiza el recorrido mediante animación implementando una interfaz para poder entender el funcionamiento de los principales algoritmos de Inteligencia Artificial.
+Esta aplicación esta diseñada para ayudar en el desarrollo e investigación en el área de Inteligencia Artificial y Sistemas Expertos. La aplicación se basa en un software que realiza el recorrido mediante animaciónes en una interfaz con el fín de analizar detalladamente el funcionamiento y la ejecución de los principales algoritmos de Inteligencia Artificial.
 
 ### Algoritmos de Inteligencia Artificial Desarrollados:
 - Breadth-First Search 

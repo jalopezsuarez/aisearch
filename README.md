@@ -15,25 +15,27 @@ Esta aplicación esta diseñada para ayudar en el desarrollo e investigación en
 ### Grafos para AI-Search 
 La aplicación admite un formato determinado de archivos donde se especifican los grafos, utilizando archivos de texto plano. Mediante el archivo se van definiendo los nodos, enlaces sucesores, etc. De tal manera que finalmente se dispone de un archivo completo con el que definir y cargar los grafos en la aplicación.
 
-| Variable Ejemplo  | Valor Ejemplo |
-| NodosTotales | 3  |  
-| NombreNodo   | A | 
+#### Como ejemplo se muestra una tabla donde se define un grafo con tres nodos enlazados:
+
+| Variable  | Valor |
+| NodosTotales | 3 |
+| NombreNodo | A | 
 | PosicionX,PosicionY   | 100, 40  | 
-| ValorNodo   | 10 |
+| ValorNodo | 10 |
 | EsObjetivo {seleccionar SI o NO}   | NO |
-| NumeroSucesores   | 2  |
-| Sucesores_Nombre,Coste_Arco   | B,10  |
-| Sucesores_Nombre,Coste_Arco   | C,5  |
-| NombreNodo   | B | 
-| PosicionX,PosicionY   | 60, 120  | 
-| ValorNodo   | 20 |
+| NumeroSucesores  | 2 |
+| NombreSucesores,CosteArco   | B,10 |
+| NombreSucesores,CosteArco   | C,5 |
+| NombreNodo | B | 
+| PosicionX,PosicionY   | 60, 120 | 
+| ValorNodo  | 20 |
 | EsObjetivo {seleccionar SI o NO}   | NO |
-| NumeroSucesores   | 0  |
-| NombreNodo   | C | 
+| NumeroSucesores   | 0 |
+| NombreNodo | C | 
 | PosicionX,PosicionY   | 120, 150  | 
-| ValorNodo   | 15 |
+| ValorNodo | 15 |
 | EsObjetivo {seleccionar SI o NO}   | SI |
-| NumeroSucesores   | 0  |
+| NumeroSucesores | 0 |
 
 ### Funcionalidades Destacadas
 - Apertura del grafo mediante menú Abrir.

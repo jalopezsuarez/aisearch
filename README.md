@@ -1,14 +1,14 @@
 # AI-Search 
 Software de animación de algoritmos de Inteligencia Artificial
 
-Inteligencia Artificial y Sistemas Expertos
+## Inteligencia Artificial y Sistemas Expertos
 
-AI-Search: Software de animación de algoritmos de Inteligencia Artificial
+## AI-Search: Software de animación de algoritmos de Inteligencia Artificial
 
-Practicas para la asignatura de Inteligencia Artificial y Sistemas Expertos.
+## Proyecto para el desarrollo e investigación en el área de Inteligencia Artificial y Sistemas Expertos.
 Este software de animación de algoritmos implementa una interfaz para poder entender el funcionamiento de los principales algoritmos de Inteligencia Artificial.
 
-Se implementan los siguientes algoritmos:
+## Se implementan los siguientes algoritmos:
 •	Breadth-First Search 
 •	Depth-First Search 
 •	Simple Hill Climbing 
@@ -16,8 +16,8 @@ Se implementan los siguientes algoritmos:
 •	Best First Search 
 •	A* Search
 
-Grafos para AI-Search 
-El programa admite un formato determinado de archivos donde se especifican los grafos, utilizando archivos de texto plano.
+## Grafos para AI-Search 
+La aplicación admite un formato determinado de archivos donde se especifican los grafos, utilizando archivos de texto plano.
 Formato de archivo	Código de ejemplo	Imagen de ejemplo
 Nodos_Totales
 Nombre_Nodo
@@ -45,9 +45,8 @@ C
 15
 SI
 0	 
-Mejoras:
-He implementado diversas mejoras para el desarrollo del programa:
-Se implementan entre otras, las siguientes mejoras
+
+## Funcionalidades destacadas:
 •	Apertura del grafo mediante menú Abrir.
 •	Se adjuntan diversos grafos de ejemplo para probar la efectividad de cada algoritmo.
 •	Inclusión de las estadísticas en el desarrollo y finalización de la ejecución del algoritmo.

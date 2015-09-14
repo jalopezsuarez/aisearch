@@ -17,7 +17,7 @@ La aplicación admite un formato determinado de archivos donde se especifican lo
 
 **Como ejemplo se muestra una tabla donde se define un grafo con tres nodos enlazados:**
 
-| Descripción | Fichero |
+| Descripción | Archivo Grafo |
 | ------------- | ----------- |
 | NodosTotales | 3 |
 | NombreNodo | A | 

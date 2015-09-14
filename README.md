@@ -15,16 +15,35 @@ Esta aplicación esta diseñada para ayudar en el desarrollo e investigación en
 ### Grafos para AI-Search 
 La aplicación admite un formato determinado de archivos donde se especifican los grafos, utilizando archivos de texto plano.
 
-| Variable Ejemplo  | Valor Ejemplo | Imagen Grafo |
-| ------------- | ------------- | ------------- |
-| Nodos_Totales | 3  |  |
-| Nombre_Nodo   | A | |
-| PosicionX,PosicionY   | 100, 40  | |
-| Valor_Nodo   | 10 ||
-| Es_Objetivo {seleccionar SI o NO}   | NO ||
-| Numeros_Sucesores   | Content Cell  ||
-| Sucesores_Nombre,Coste_Arco   | B,10  ||
-| Sucesores_Nombre,Coste_Arco   | C,5  ||
+| Variable Ejemplo  | Valor Ejemplo |
+| ------------- | ------------- |
+| Nodos_Totales | 3  |  
+
+| Variable Ejemplo  | Valor Ejemplo |
+| ------------- | ------------- |
+| Nombre_Nodo   | A | 
+| PosicionX,PosicionY   | 100, 40  | 
+| Valor_Nodo   | 10 |
+| Es_Objetivo {seleccionar SI o NO}   | NO |
+| Numeros_Sucesores   | 2  |
+| Sucesores_Nombre,Coste_Arco   | B,10  |
+| Sucesores_Nombre,Coste_Arco   | C,5  |
+
+| Variable Ejemplo  | Valor Ejemplo |
+| ------------- | ------------- |
+| Nombre_Nodo   | B | 
+| PosicionX,PosicionY   | 60, 120  | 
+| Valor_Nodo   | 20 |
+| Es_Objetivo {seleccionar SI o NO}   | NO |
+| Numeros_Sucesores   | 0  |
+
+| Variable Ejemplo  | Valor Ejemplo |
+| ------------- | ------------- |
+| Nombre_Nodo   | C | 
+| PosicionX,PosicionY   | 120, 150  | 
+| Valor_Nodo   | 15 |
+| Es_Objetivo {seleccionar SI o NO}   | SI |
+| Numeros_Sucesores   | 0  |
 
 ### Funcionalidades Destacadas
 - Apertura del grafo mediante menú Abrir.

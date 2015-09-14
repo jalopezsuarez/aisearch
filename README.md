@@ -15,7 +15,7 @@ Esta aplicación esta diseñada para ayudar en el desarrollo e investigación en
 ### Grafos para AI-Search 
 La aplicación admite un formato determinado de archivos donde se especifican los grafos, utilizando archivos de texto plano. Mediante el archivo se van definiendo los nodos, enlaces sucesores, etc. De tal manera que finalmente se dispone de un archivo completo con el que definir y cargar los grafos en la aplicación.
 
-** Como ejemplo se muestra una tabla donde se define un grafo con tres nodos enlazados:
+**Como ejemplo se muestra una tabla donde se define un grafo con tres nodos enlazados:
 
 | Variable Descripción | Definición Fichero |
 | ------------- | ----------- |

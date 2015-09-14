@@ -56,4 +56,4 @@ Keep track of development and community updates. Pull requests are welcome!
 
 ## Copyright and License
 
-Code and documentation copyright 2006-2015. Code released under [the MIT license](https://github.com/jalopezsuarez/aisearch/LICENSE).
+Code and documentation copyright 2006-2015. Code released under [the MIT license](https://github.com/jalopezsuarez/aisearch/blob/master/LICENSE).

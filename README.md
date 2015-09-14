@@ -38,6 +38,8 @@ La aplicación admite un formato determinado de archivos donde se especifican lo
 | EsObjetivo {seleccionar SI o NO}   | SI |
 | NumeroSucesores | 0 |
 
+![IPv6](AISearch/docs/screen.png)
+
 ### Funcionalidades Destacadas
 - Apertura del grafo definido en un archivo mediante menú Abrir.
 - Se adjuntan diversos grafos de ejemplo para probar la efectividad de cada algoritmo.

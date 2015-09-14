@@ -16,28 +16,24 @@ Esta aplicación esta diseñada para ayudar en el desarrollo e investigación en
 La aplicación admite un formato determinado de archivos donde se especifican los grafos, utilizando archivos de texto plano. Mediante el archivo se van definiendo los nodos, enlaces sucesores, etc. De tal manera que finalmente se dispone de un archivo completo con el que definir y cargar los grafos en la aplicación.
 
 | Variable Ejemplo  | Valor Ejemplo |
-|  |  |
-| Nodos_Totales | 3  |  
-|  |  |
-| Nombre_Nodo   | A | 
+| NodosTotales | 3  |  
+| NombreNodo   | A | 
 | PosicionX,PosicionY   | 100, 40  | 
-| Valor_Nodo   | 10 |
-| Es_Objetivo {seleccionar SI o NO}   | NO |
-| Numeros_Sucesores   | 2  |
+| ValorNodo   | 10 |
+| EsObjetivo {seleccionar SI o NO}   | NO |
+| NumeroSucesores   | 2  |
 | Sucesores_Nombre,Coste_Arco   | B,10  |
 | Sucesores_Nombre,Coste_Arco   | C,5  |
-|  |  |
-| Nombre_Nodo   | B | 
+| NombreNodo   | B | 
 | PosicionX,PosicionY   | 60, 120  | 
-| Valor_Nodo   | 20 |
-| Es_Objetivo {seleccionar SI o NO}   | NO |
-| Numeros_Sucesores   | 0  |
-|  |  |
-| Nombre_Nodo   | C | 
+| ValorNodo   | 20 |
+| EsObjetivo {seleccionar SI o NO}   | NO |
+| NumeroSucesores   | 0  |
+| NombreNodo   | C | 
 | PosicionX,PosicionY   | 120, 150  | 
-| Valor_Nodo   | 15 |
-| Es_Objetivo {seleccionar SI o NO}   | SI |
-| Numeros_Sucesores   | 0  |
+| ValorNodo   | 15 |
+| EsObjetivo {seleccionar SI o NO}   | SI |
+| NumeroSucesores   | 0  |
 
 ### Funcionalidades Destacadas
 - Apertura del grafo mediante menú Abrir.

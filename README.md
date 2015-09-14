@@ -39,7 +39,7 @@ La aplicación admite un formato determinado de archivos donde se especifican lo
 | NumeroSucesores | 0 |
 
 ### Funcionalidades Destacadas
-- Apertura del grafo mediante menú Abrir.
+- Apertura del grafo definido en un archivo mediante menú Abrir.
 - Se adjuntan diversos grafos de ejemplo para probar la efectividad de cada algoritmo.
 - Inclusión de las estadísticas en el desarrollo y finalización de la ejecución del algoritmo.
 - Opción de ejecutar paso a paso o modo temporizador pudiendo determina la velocidad del temporizador.

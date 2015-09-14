@@ -1,4 +1,4 @@
-# aisearch
+# AI-Search 
 Software de animación de algoritmos de Inteligencia Artificial
 
 Inteligencia Artificial y Sistemas Expertos

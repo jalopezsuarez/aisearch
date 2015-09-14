@@ -1,11 +1,7 @@
 # AI-Search 
-Software de animación de algoritmos de Inteligencia Artificial
+AI-Search: Software de animación de algoritmos de Inteligencia Artificial
 
-## Inteligencia Artificial y Sistemas Expertos
-
-## AI-Search: Software de animación de algoritmos de Inteligencia Artificial
-
-## Proyecto para el desarrollo e investigación en el área de Inteligencia Artificial y Sistemas Expertos.
+## Desarrollo e investigación para el área de Inteligencia Artificial y Sistemas Expertos.
 Este software de animación de algoritmos implementa una interfaz para poder entender el funcionamiento de los principales algoritmos de Inteligencia Artificial.
 
 ## Se implementan los siguientes algoritmos:

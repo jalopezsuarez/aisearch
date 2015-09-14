@@ -33,7 +33,7 @@ public class AISearch extends Frame {
 
 	// clase main
 	public static void main(String arg[]) {
-		// instancia una ventanas
+		// instancia una ventana
 		new AISearch();
 	}
 
